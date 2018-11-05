@@ -1,9 +1,4 @@
-import React from 'react';
-class Arjun extends React.Component {
-  render() {
-    return (
-      <div>Hello I am arjun ghimire</div>
-    );
-  }
+import Button from './components/Button';
+export {
+  Button
 }
-export default Arjun;
